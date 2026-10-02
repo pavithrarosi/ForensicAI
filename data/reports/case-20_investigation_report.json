@@ -1,0 +1,1738 @@
+{
+  "case_id": "case-20",
+  "generated_at": "2026-10-02T07:36:17",
+  "reports": [
+    {
+      "report_id": "RPT-990870A3BD",
+      "case_id": "case-20",
+      "filename": "ufdr report2.ufdr.pdf",
+      "sha256": "21fce686142f86228036b7f8576849385a0a7cc446ddb864cfbd0d6448a1e076",
+      "uploaded_at": "2026-10-01T22:23:17",
+      "status": "processed",
+      "pages": 4,
+      "metadata": {}
+    }
+  ],
+  "record_counts": {
+    "other": 157,
+    "contact": 2,
+    "call": 8,
+    "location": 5,
+    "message": 6,
+    "media": 2,
+    "browser": 8,
+    "application": 2
+  },
+  "records": [
+    {
+      "record_id": "R00001",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UNIVERSAL FORENSIC DATA REPORT",
+      "raw": "UNIVERSAL FORENSIC DATA REPORT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00002",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Cellebrite Physical Analyzer v7.64.0 • Complete Logical & Physical",
+      "raw": "Cellebrite Physical Analyzer v7.64.0 • Complete Logical & Physical",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00003",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Extraction",
+      "raw": "Extraction",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00004",
+      "type": "other",
+      "timestamp": "",
+      "summary": "RESTRICTED // LAW ENFORCEMENT EVIDENTIARY",
+      "raw": "RESTRICTED // LAW ENFORCEMENT EVIDENTIARY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00005",
+      "type": "other",
+      "timestamp": "",
+      "summary": "REPORT",
+      "raw": "REPORT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00006",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE METADATA & INVESTIGATIVE OVERVIEW",
+      "raw": "CASE METADATA & INVESTIGATIVE OVERVIEW",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00007",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE IDENTIFIER",
+      "raw": "CASE IDENTIFIER",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00008",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CR-2026-0914-8849A",
+      "raw": "CR-2026-0914-8849A",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00009",
+      "type": "other",
+      "timestamp": "",
+      "summary": "INVESTIGATING AGENCY",
+      "raw": "INVESTIGATING AGENCY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00010",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DFCCU Cyber Division",
+      "raw": "DFCCU Cyber Division",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00011",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EVIDENCE TAG ID",
+      "raw": "EVIDENCE TAG ID",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00012",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EVI-2026-98102-IP",
+      "raw": "EVI-2026-98102-IP",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00013",
+      "type": "other",
+      "timestamp": "",
+      "summary": "LEAD FORENSIC EXAMINER",
+      "raw": "LEAD FORENSIC EXAMINER",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00014",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Det. Marcus Vance (Badge #4489)",
+      "raw": "Det. Marcus Vance (Badge #4489)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00015",
+      "type": "other",
+      "timestamp": "",
+      "summary": "TECHNICAL LABORATORY SUPERVISOR",
+      "raw": "TECHNICAL LABORATORY SUPERVISOR",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00016",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Dr. Aris Thorne (Chief Technical Oﬃcer)",
+      "raw": "Dr. Aris Thorne (Chief Technical Oﬃcer)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00017",
+      "type": "other",
+      "timestamp": "",
+      "summary": "TARGET DEVICE & HARDWARE SPECIFICATIONS",
+      "raw": "TARGET DEVICE & HARDWARE SPECIFICATIONS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00018",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Device Make / Model Apple iPhone 15 Pro (A3102) Operating System iOS 17.5.1 (Build 21F90)",
+      "raw": "Device Make / Model Apple iPhone 15 Pro (A3102) Operating System iOS 17.5.1 (Build 21F90)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00019",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Serial Number F17L9028X1MP IMEI 1 356984102948102",
+      "raw": "Serial Number F17L9028X1MP IMEI 1 356984102948102",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00020",
+      "type": "contact",
+      "timestamp": "",
+      "summary": "ICCID (SIM Card) 89014103211128491029 Target Phone Number +1 (555) 019-2831",
+      "raw": "ICCID (SIM Card) 89014103211128491029 Target Phone Number +1 (555) 019-2831",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00021",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Unique Device Identiﬁer 00008130-001A49283E40001E",
+      "raw": "Unique Device Identiﬁer 00008130-001A49283E40001E",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00022",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Extraction Method UFED Hardware Exploitation / Full File",
+      "raw": "Extraction Method UFED Hardware Exploitation / Full File",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00023",
+      "type": "other",
+      "timestamp": "",
+      "summary": "System",
+      "raw": "System",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00024",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Passcode / Lock Status BYPASSED VIA HARDWARE BOOTROM",
+      "raw": "Passcode / Lock Status BYPASSED VIA HARDWARE BOOTROM",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00025",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CRYPTOGRAPHIC VERIFICATION & ACQUISITION TIMESTAMPS",
+      "raw": "CRYPTOGRAPHIC VERIFICATION & ACQUISITION TIMESTAMPS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00026",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ACQUISITION START TIME: 2026-09-13T10:15:30Z ACQUISITION END TIME: 2026-09-13T11:02:14Z",
+      "raw": "ACQUISITION START TIME: 2026-09-13T10:15:30Z ACQUISITION END TIME: 2026-09-13T11:02:14Z",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00027",
+      "type": "other",
+      "timestamp": "",
+      "summary": "SHA-256 MASTER IMAGE HASH",
+      "raw": "SHA-256 MASTER IMAGE HASH",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00028",
+      "type": "other",
+      "timestamp": "",
+      "summary": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "raw": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00029",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MD5 MASTER IMAGE HASH",
+      "raw": "MD5 MASTER IMAGE HASH",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00030",
+      "type": "other",
+      "timestamp": "",
+      "summary": "9e107d9d372bb6826bd81d3542a419d6",
+      "raw": "9e107d9d372bb6826bd81d3542a419d6",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00031",
+      "type": "other",
+      "timestamp": "",
+      "summary": "[✓ ] Cryptographic Checksum Validated: Zero bit-level variance observed post-extraction.",
+      "raw": "[✓ ] Cryptographic Checksum Validated: Zero bit-level variance observed post-extraction.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00032",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EXTRACTED ARTIFACT INVENTORY",
+      "raw": "EXTRACTED ARTIFACT INVENTORY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00033",
+      "type": "other",
+      "timestamp": "",
+      "summary": "1,420",
+      "raw": "1,420",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00034",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MESSAGES",
+      "raw": "MESSAGES",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00035",
+      "type": "other",
+      "timestamp": "",
+      "summary": "385",
+      "raw": "385",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00036",
+      "type": "call",
+      "timestamp": "",
+      "summary": "CALL LOGS",
+      "raw": "CALL LOGS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00037",
+      "type": "other",
+      "timestamp": "",
+      "summary": "512",
+      "raw": "512",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00038",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CONTACTS",
+      "raw": "CONTACTS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00039",
+      "type": "other",
+      "timestamp": "",
+      "summary": "1,840",
+      "raw": "1,840",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00040",
+      "type": "location",
+      "timestamp": "",
+      "summary": "GPS POINTS",
+      "raw": "GPS POINTS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00041",
+      "type": "other",
+      "timestamp": "",
+      "summary": "4,250",
+      "raw": "4,250",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00042",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MEDIA FILES",
+      "raw": "MEDIA FILES",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00043",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2,890",
+      "raw": "2,890",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00044",
+      "type": "other",
+      "timestamp": "",
+      "summary": "WEB HISTORY",
+      "raw": "WEB HISTORY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00045",
+      "type": "other",
+      "timestamp": "",
+      "summary": "142",
+      "raw": "142",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00046",
+      "type": "other",
+      "timestamp": "",
+      "summary": "INSTALLED APPS",
+      "raw": "INSTALLED APPS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00047",
+      "type": "other",
+      "timestamp": "",
+      "summary": "18",
+      "raw": "18",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00048",
+      "type": "other",
+      "timestamp": "",
+      "summary": "VAULT ACCOUNTS",
+      "raw": "VAULT ACCOUNTS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00049",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EXECUTIVE SUMMARY",
+      "raw": "EXECUTIVE SUMMARY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00050",
+      "type": "other",
+      "timestamp": "",
+      "summary": "A full physical and logical extraction of Exhibit EVI-2026-98102-IP was authorized under Search Warrant #SW-2026-0911. Hardware",
+      "raw": "A full physical and logical extraction of Exhibit EVI-2026-98102-IP was authorized under Search Warrant #SW-2026-0911. Hardware",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00051",
+      "type": "other",
+      "timestamp": "",
+      "summary": "exploitation bypassed the device passcode without data zeroization. Analysis revealed active encrypted messaging channels",
+      "raw": "exploitation bypassed the device passcode without data zeroization. Analysis revealed active encrypted messaging channels",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00052",
+      "type": "location",
+      "timestamp": "",
+      "summary": "(WhatsApp, Signal, Telegram), wiped SQLite WAL ﬁles recovered via unallocated space carving, and critical location artifacts placing",
+      "raw": "(WhatsApp, Signal, Telegram), wiped SQLite WAL ﬁles recovered via unallocated space carving, and critical location artifacts placing",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00053",
+      "type": "other",
+      "timestamp": "",
+      "summary": "the device at key points of interest.",
+      "raw": "the device at key points of interest.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00054",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 1 of 4",
+      "raw": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 1 of 4",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00055",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EXTRACTED ARTIFACTS: COMMUNICATIONS LOG",
+      "raw": "EXTRACTED ARTIFACTS: COMMUNICATIONS LOG",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00056",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Export • Instant Messaging & Voice Activity Analysis",
+      "raw": "UFDR Export • Instant Messaging & Voice Activity Analysis",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00057",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE #CR-2026-0914-8849A",
+      "raw": "CASE #CR-2026-0914-8849A",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00058",
+      "type": "message",
+      "timestamp": "",
+      "summary": "FLAGGED INSTANT MESSAGING TRANSCRIPTS (WHATSAPP, SIGNAL, IMESSAGE, TELEGRAM)",
+      "raw": "FLAGGED INSTANT MESSAGING TRANSCRIPTS (WHATSAPP, SIGNAL, IMESSAGE, TELEGRAM)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00059",
+      "type": "message",
+      "timestamp": "",
+      "summary": "From: +1 (555) 839-2049 (Alias: Viper) • WhatsApp 2026-09-12 22:14:05 UTC • Message ID: #WA-1001",
+      "raw": "From: +1 (555) 839-2049 (Alias: Viper) • WhatsApp 2026-09-12 22:14:05 UTC • Message ID: #WA-1001",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00060",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Sender: Package has been placed at coordinates 37.7749, -122.4194. Conﬁrm pickup by midnight.",
+      "raw": "Sender: Package has been placed at coordinates 37.7749, -122.4194. Conﬁrm pickup by midnight.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00061",
+      "type": "media",
+      "timestamp": "",
+      "summary": "[Attachment: IMG_9941_dropzone.jpg • Stored in media/IMG_9941.jpg]",
+      "raw": "[Attachment: IMG_9941_dropzone.jpg • Stored in media/IMG_9941.jpg]",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00062",
+      "type": "message",
+      "timestamp": "",
+      "summary": "From: Target Device (+1 555-019-2831) • WhatsApp 2026-09-12 22:15:22 UTC • Message ID: #WA-1002",
+      "raw": "From: Target Device (+1 555-019-2831) • WhatsApp 2026-09-12 22:15:22 UTC • Message ID: #WA-1002",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00063",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Target: En route now. Payment sent via encrypted ledger. Reference transaction #TX-908211.",
+      "raw": "Target: En route now. Payment sent via encrypted ledger. Reference transaction #TX-908211.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00064",
+      "type": "message",
+      "timestamp": "",
+      "summary": "From: +1 (555) 441-9920 (Alias: Ghost_09) • Signal App 2026-09-12 23:02:11 UTC • Message ID: #SIG-8801",
+      "raw": "From: +1 (555) 441-9920 (Alias: Ghost_09) • Signal App 2026-09-12 23:02:11 UTC • Message ID: #SIG-8801",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00065",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Sender: Clear the secondary log ﬁles immediately. Law enforcement surveillance spotted near the dock.",
+      "raw": "Sender: Clear the secondary log ﬁles immediately. Law enforcement surveillance spotted near the dock.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00066",
+      "type": "other",
+      "timestamp": "",
+      "summary": "RECOVERED FROM UNALLOCATED SPACE (SQLITE DISCARD BLOCK)",
+      "raw": "RECOVERED FROM UNALLOCATED SPACE (SQLITE DISCARD BLOCK)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00067",
+      "type": "message",
+      "timestamp": "",
+      "summary": "From: @dark_vault_admin • Telegram Messenger 2026-09-13 01:40:02 UTC • Message ID: #TG-4491",
+      "raw": "From: @dark_vault_admin • Telegram Messenger 2026-09-13 01:40:02 UTC • Message ID: #TG-4491",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00068",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Sender: Account authorization granted for VPN node #884. Session token generated.",
+      "raw": "Sender: Account authorization granted for VPN node #884. Session token generated.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00069",
+      "type": "message",
+      "timestamp": "",
+      "summary": "From: +1 (555) 019-2831 (Target Device) • iMessage 2026-09-13 02:10:18 UTC • Message ID: #IMS-0032",
+      "raw": "From: +1 (555) 019-2831 (Target Device) • iMessage 2026-09-13 02:10:18 UTC • Message ID: #IMS-0032",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00070",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Target: All ﬁles uploaded to secure vault. Primary drive zeroed.",
+      "raw": "Target: All ﬁles uploaded to secure vault. Primary drive zeroed.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00071",
+      "type": "call",
+      "timestamp": "",
+      "summary": "DETAILED CALL LOGS (NATIVE CELLULAR & VOIP PROTOCOL)",
+      "raw": "DETAILED CALL LOGS (NATIVE CELLULAR & VOIP PROTOCOL)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00072",
+      "type": "call",
+      "timestamp": "",
+      "summary": "TIMESTAMP (UTC) CALL DIRECTION / TYPE REMOTE PARTY IDENTIFIER DURATION CELLULAR / NETWORK METADATA",
+      "raw": "TIMESTAMP (UTC) CALL DIRECTION / TYPE REMOTE PARTY IDENTIFIER DURATION CELLULAR / NETWORK METADATA",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00073",
+      "type": "call",
+      "timestamp": "",
+      "summary": "2026-09-12 21:45:10 INCOMING CALL +1 (555) 839-2049 (Viper) 03m 04s Tower ID: 48210 (Sector 2) • LTE",
+      "raw": "2026-09-12 21:45:10 INCOMING CALL +1 (555) 839-2049 (Viper) 03m 04s Tower ID: 48210 (Sector 2) • LTE",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00074",
+      "type": "call",
+      "timestamp": "",
+      "summary": "2026-09-12 23:10:00 OUTGOING VOIP Signal User: Ghost_09 00m 45s Encrypted Voice Data over Wi-Fi",
+      "raw": "2026-09-12 23:10:00 OUTGOING VOIP Signal User: Ghost_09 00m 45s Encrypted Voice Data over Wi-Fi",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00075",
+      "type": "call",
+      "timestamp": "",
+      "summary": "2026-09-13 00:15:30 MISSED CALL +1 (555) 012-9011 00m 00s Tower ID: 48210 (Sector 1) • 5G NR",
+      "raw": "2026-09-13 00:15:30 MISSED CALL +1 (555) 012-9011 00m 00s Tower ID: 48210 (Sector 1) • 5G NR",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00076",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-13 01:05:12 TELEGRAM AUDIO User: @dark_vault_admin 14m 22s IP Direct: 198.51.100.89",
+      "raw": "2026-09-13 01:05:12 TELEGRAM AUDIO User: @dark_vault_admin 14m 22s IP Direct: 198.51.100.89",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00077",
+      "type": "call",
+      "timestamp": "",
+      "summary": "2026-09-13 03:22:40 INCOMING CALL +1 (555) 839-2049 (Viper) 01m 12s Tower ID: 49012 (Sector 4) • 5G NR",
+      "raw": "2026-09-13 03:22:40 INCOMING CALL +1 (555) 839-2049 (Viper) 01m 12s Tower ID: 49012 (Sector 4) • 5G NR",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00078",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 2 of 4",
+      "raw": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 2 of 4",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00079",
+      "type": "other",
+      "timestamp": "",
+      "summary": "GEOGRAPHICAL & DIGITAL TRACE ANALYSIS",
+      "raw": "GEOGRAPHICAL & DIGITAL TRACE ANALYSIS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00080",
+      "type": "location",
+      "timestamp": "",
+      "summary": "UFDR Export • Location History, Browser Logs & App Footprint",
+      "raw": "UFDR Export • Location History, Browser Logs & App Footprint",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00081",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE #CR-2026-0914-8849A",
+      "raw": "CASE #CR-2026-0914-8849A",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00082",
+      "type": "location",
+      "timestamp": "",
+      "summary": "EXTRACTED GEOLOCATION TRACKPOINTS & EXIF METADATA",
+      "raw": "EXTRACTED GEOLOCATION TRACKPOINTS & EXIF METADATA",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00083",
+      "type": "other",
+      "timestamp": "",
+      "summary": "TIMESTAMP (UTC) COORDINATES (LAT / LONG) ALTITUDE SOURCE ARTIFACT ENGINE PRECISION / ACCURACY",
+      "raw": "TIMESTAMP (UTC) COORDINATES (LAT / LONG) ALTITUDE SOURCE ARTIFACT ENGINE PRECISION / ACCURACY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00084",
+      "type": "media",
+      "timestamp": "",
+      "summary": "2026-09-12 22:14:05 37.774929° N, -122.419416° W 12.4m EXIF Data (IMG_9941.jpg) ± 3.0 meters",
+      "raw": "2026-09-12 22:14:05 37.774929° N, -122.419416° W 12.4m EXIF Data (IMG_9941.jpg) ± 3.0 meters",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00085",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12 22:45:12 37.783344° N, -122.416658° W 18.1m Apple Maps Cache (routabled.db) ± 8.5 meters",
+      "raw": "2026-09-12 22:45:12 37.783344° N, -122.416658° W 18.1m Apple Maps Cache (routabled.db) ± 8.5 meters",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00086",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12 23:15:00 37.785102° N, -122.408112° W 5.0m Cellular Tower Triangulation ± 150 meters",
+      "raw": "2026-09-12 23:15:00 37.785102° N, -122.408112° W 5.0m Cellular Tower Triangulation ± 150 meters",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00087",
+      "type": "location",
+      "timestamp": "",
+      "summary": "2026-09-13 01:20:30 37.791220° N, -122.401880° W 2.1m CoreLocation cache.sqlite ± 5.2 meters",
+      "raw": "2026-09-13 01:20:30 37.791220° N, -122.401880° W 2.1m CoreLocation cache.sqlite ± 5.2 meters",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00088",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "WEB & BROWSER HISTORY RECORDS (SAFARI, TOR, CHROME)",
+      "raw": "WEB & BROWSER HISTORY RECORDS (SAFARI, TOR, CHROME)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00089",
+      "type": "other",
+      "timestamp": "",
+      "summary": "TIMESTAMP",
+      "raw": "TIMESTAMP",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00090",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(UTC)",
+      "raw": "(UTC)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00091",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "BROWSER",
+      "raw": "BROWSER",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00092",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "ENGINE URL / WEB SEARCH QUERY RECORD VISIT",
+      "raw": "ENGINE URL / WEB SEARCH QUERY RECORD VISIT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00093",
+      "type": "other",
+      "timestamp": "",
+      "summary": "COUNT",
+      "raw": "COUNT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00094",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DATABASE",
+      "raw": "DATABASE",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00095",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ARTIFACT",
+      "raw": "ARTIFACT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00096",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12",
+      "raw": "2026-09-12",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00097",
+      "type": "other",
+      "timestamp": "",
+      "summary": "20:10:14",
+      "raw": "20:10:14",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00098",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "Safari Private https://protonmail.com/login 14 visits History.db WAL",
+      "raw": "Safari Private https://protonmail.com/login 14 visits History.db WAL",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00099",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12",
+      "raw": "2026-09-12",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00100",
+      "type": "other",
+      "timestamp": "",
+      "summary": "20:45:00",
+      "raw": "20:45:00",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00101",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "Tor Browser",
+      "raw": "Tor Browser",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00102",
+      "type": "other",
+      "timestamp": "",
+      "summary": "App",
+      "raw": "App",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00103",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "http://darknet-vault-node88.onion/transfer 3 visits Tor State Cache",
+      "raw": "http://darknet-vault-node88.onion/transfer 3 visits Tor State Cache",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00104",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12",
+      "raw": "2026-09-12",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00105",
+      "type": "other",
+      "timestamp": "",
+      "summary": "21:05:22",
+      "raw": "21:05:22",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00106",
+      "type": "call",
+      "timestamp": "",
+      "summary": "Chrome Mobile Query: \"how to securely delete cellular call",
+      "raw": "Chrome Mobile Query: \"how to securely delete cellular call",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00107",
+      "type": "other",
+      "timestamp": "",
+      "summary": "logs\"",
+      "raw": "logs\"",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00108",
+      "type": "other",
+      "timestamp": "",
+      "summary": "1 visit Google Sync",
+      "raw": "1 visit Google Sync",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00109",
+      "type": "other",
+      "timestamp": "",
+      "summary": "History",
+      "raw": "History",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00110",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-13",
+      "raw": "2026-09-13",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00111",
+      "type": "other",
+      "timestamp": "",
+      "summary": "00:30:11",
+      "raw": "00:30:11",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00112",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "Safari Browser https://binance.com/en/trade/BTC_USDT 22 visits History.db",
+      "raw": "Safari Browser https://binance.com/en/trade/BTC_USDT 22 visits History.db",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00113",
+      "type": "application",
+      "timestamp": "",
+      "summary": "KEY INSTALLED APPLICATIONS & SECURITY FOOTPRINT",
+      "raw": "KEY INSTALLED APPLICATIONS & SECURITY FOOTPRINT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00114",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ENCRYPTED MESSAGING & VPN APPS",
+      "raw": "ENCRYPTED MESSAGING & VPN APPS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00115",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Signal Messenger v7.12.0 (Org.whispersystems.signal)",
+      "raw": "Signal Messenger v7.12.0 (Org.whispersystems.signal)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00116",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Session Messenger v2.4.1 (Com.loki-project.loki-messenger)",
+      "raw": "Session Messenger v2.4.1 (Com.loki-project.loki-messenger)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00117",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Telegram Messenger v10.8.2 (Ph.telegra.Telegraph)",
+      "raw": "Telegram Messenger v10.8.2 (Ph.telegra.Telegraph)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00118",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ProtonVPN v5.2.0 (Ch.protonvpn.mac)",
+      "raw": "ProtonVPN v5.2.0 (Ch.protonvpn.mac)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00119",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CRYPTOCURRENCY & SECURITY CONTAINERS",
+      "raw": "CRYPTOCURRENCY & SECURITY CONTAINERS",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00120",
+      "type": "other",
+      "timestamp": "",
+      "summary": "MetaMask Wallet v7.18.0 (Io.metamask.MetaMask)",
+      "raw": "MetaMask Wallet v7.18.0 (Io.metamask.MetaMask)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00121",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Calculator Vault Pro v4.1.0 (Com.vault.hidden.photo)",
+      "raw": "Calculator Vault Pro v4.1.0 (Com.vault.hidden.photo)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00122",
+      "type": "browser",
+      "timestamp": "",
+      "summary": "Tor Browser Mobile v13.0.4 (Org.torproject.torbrowser)",
+      "raw": "Tor Browser Mobile v13.0.4 (Org.torproject.torbrowser)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00123",
+      "type": "contact",
+      "timestamp": "",
+      "summary": "ProtonMail Encrypted Email v3.4.1 (Ch.protonmail)",
+      "raw": "ProtonMail Encrypted Email v3.4.1 (Ch.protonmail)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00124",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 3 of 4",
+      "raw": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 3 of 4",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00125",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CHAIN OF CUSTODY & LEGAL ATTESTATION",
+      "raw": "CHAIN OF CUSTODY & LEGAL ATTESTATION",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00126",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Export • Evidence Integrity Audit & Examiner Sign-Off",
+      "raw": "UFDR Export • Evidence Integrity Audit & Examiner Sign-Off",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00127",
+      "type": "other",
+      "timestamp": "",
+      "summary": "CASE #CR-2026-0914-8849A",
+      "raw": "CASE #CR-2026-0914-8849A",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00128",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EVIDENCE CHAIN OF CUSTODY AUDIT LOG",
+      "raw": "EVIDENCE CHAIN OF CUSTODY AUDIT LOG",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00129",
+      "type": "other",
+      "timestamp": "",
+      "summary": "DATE / TIME",
+      "raw": "DATE / TIME",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00130",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(UTC)",
+      "raw": "(UTC)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00131",
+      "type": "other",
+      "timestamp": "",
+      "summary": "ACTION / CUSTODY",
+      "raw": "ACTION / CUSTODY",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00132",
+      "type": "other",
+      "timestamp": "",
+      "summary": "EVENT RELEASING PARTY RECEIVING PARTY STORAGE / SECURITY NOTES",
+      "raw": "EVENT RELEASING PARTY RECEIVING PARTY STORAGE / SECURITY NOTES",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00133",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-12",
+      "raw": "2026-09-12",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00134",
+      "type": "other",
+      "timestamp": "",
+      "summary": "18:30",
+      "raw": "18:30",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00135",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Physical Evidence",
+      "raw": "Physical Evidence",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00136",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Seizure",
+      "raw": "Seizure",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00137",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Field Oﬃcer J.",
+      "raw": "Field Oﬃcer J.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00138",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Miller",
+      "raw": "Miller",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00139",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Evidence Vault",
+      "raw": "Evidence Vault",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00140",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Oﬃcer",
+      "raw": "Oﬃcer",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00141",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Seized under Search Warrant #SW-2026-0911",
+      "raw": "Seized under Search Warrant #SW-2026-0911",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00142",
+      "type": "other",
+      "timestamp": "",
+      "summary": "in Faraday Bag #FB-902",
+      "raw": "in Faraday Bag #FB-902",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00143",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-13",
+      "raw": "2026-09-13",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00144",
+      "type": "other",
+      "timestamp": "",
+      "summary": "09:00",
+      "raw": "09:00",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00145",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Transfer to Forensic",
+      "raw": "Transfer to Forensic",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00146",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Lab",
+      "raw": "Lab",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00147",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Evidence Vault",
+      "raw": "Evidence Vault",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00148",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Oﬃcer",
+      "raw": "Oﬃcer",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00149",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Det. Marcus Vance",
+      "raw": "Det. Marcus Vance",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00150",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(#4489)",
+      "raw": "(#4489)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00151",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Hand delivered for extraction; Faraday Shield",
+      "raw": "Hand delivered for extraction; Faraday Shield",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00152",
+      "type": "other",
+      "timestamp": "",
+      "summary": "maintained",
+      "raw": "maintained",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00153",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-13",
+      "raw": "2026-09-13",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00154",
+      "type": "other",
+      "timestamp": "",
+      "summary": "10:15",
+      "raw": "10:15",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00155",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Hardware Extraction Det. Marcus Vance",
+      "raw": "Hardware Extraction Det. Marcus Vance",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00156",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(#4489)",
+      "raw": "(#4489)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00157",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Forensic",
+      "raw": "Forensic",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00158",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Workstation #04",
+      "raw": "Workstation #04",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00159",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Full bit-stream image created &",
+      "raw": "Full bit-stream image created &",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00160",
+      "type": "other",
+      "timestamp": "",
+      "summary": "cryptographically hashed",
+      "raw": "cryptographically hashed",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00161",
+      "type": "other",
+      "timestamp": "",
+      "summary": "2026-09-13",
+      "raw": "2026-09-13",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00162",
+      "type": "other",
+      "timestamp": "",
+      "summary": "12:00",
+      "raw": "12:00",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00163",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Return to Evidence",
+      "raw": "Return to Evidence",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00164",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Secure Storage",
+      "raw": "Secure Storage",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00165",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Det. Marcus Vance",
+      "raw": "Det. Marcus Vance",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00166",
+      "type": "other",
+      "timestamp": "",
+      "summary": "(#4489)",
+      "raw": "(#4489)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00167",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Evidence Vault",
+      "raw": "Evidence Vault",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00168",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Custodian",
+      "raw": "Custodian",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00169",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Device re-sealed in Tamper-Evident Evidence",
+      "raw": "Device re-sealed in Tamper-Evident Evidence",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00170",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Bag #EB-884902",
+      "raw": "Bag #EB-884902",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00171",
+      "type": "other",
+      "timestamp": "",
+      "summary": "FORENSIC EQUIPMENT & CALIBRATION RECORD",
+      "raw": "FORENSIC EQUIPMENT & CALIBRATION RECORD",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00172",
+      "type": "other",
+      "timestamp": "",
+      "summary": "HARDWARE ACQUISITION UNIT",
+      "raw": "HARDWARE ACQUISITION UNIT",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00173",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Cellebrite UFED Touch3 Hardware Engine",
+      "raw": "Cellebrite UFED Touch3 Hardware Engine",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00174",
+      "type": "application",
+      "timestamp": "",
+      "summary": "Firmware Version: v7.68.0.112 • NIST Calibration Certiﬁed: 2026-08-",
+      "raw": "Firmware Version: v7.68.0.112 • NIST Calibration Certiﬁed: 2026-08-",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00175",
+      "type": "other",
+      "timestamp": "",
+      "summary": "01",
+      "raw": "01",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00176",
+      "type": "other",
+      "timestamp": "",
+      "summary": "FORENSIC SOFTWARE ENGINE",
+      "raw": "FORENSIC SOFTWARE ENGINE",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00177",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Cellebrite Physical Analyzer v7.64.0",
+      "raw": "Cellebrite Physical Analyzer v7.64.0",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00178",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Build Release: 4902 • Dynamic Parser Ruleset: 2026-09-01",
+      "raw": "Build Release: 4902 • Dynamic Parser Ruleset: 2026-09-01",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00179",
+      "type": "other",
+      "timestamp": "",
+      "summary": "OFFICIAL EXAMINER DECLARATION & LEGAL ATTESTATION",
+      "raw": "OFFICIAL EXAMINER DECLARATION & LEGAL ATTESTATION",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00180",
+      "type": "other",
+      "timestamp": "",
+      "summary": "I hereby certify under penalty of perjury that the digital evidence extraction and analysis performed on Exhibit EVI-2026-98102-IP was",
+      "raw": "I hereby certify under penalty of perjury that the digital evidence extraction and analysis performed on Exhibit EVI-2026-98102-IP was",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00181",
+      "type": "other",
+      "timestamp": "",
+      "summary": "executed in compliance with ISO/IEC 27037 standards for digital evidence handling. The cryptographic hashes generated immediately",
+      "raw": "executed in compliance with ISO/IEC 27037 standards for digital evidence handling. The cryptographic hashes generated immediately",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00182",
+      "type": "other",
+      "timestamp": "",
+      "summary": "upon acquisition match the post-analysis veriﬁcation digests, conﬁrming that no data alteration or tampering occurred during",
+      "raw": "upon acquisition match the post-analysis veriﬁcation digests, conﬁrming that no data alteration or tampering occurred during",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00183",
+      "type": "other",
+      "timestamp": "",
+      "summary": "extraction or reporting.",
+      "raw": "extraction or reporting.",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00184",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Det. Marcus Vance (Badge #4489)",
+      "raw": "Det. Marcus Vance (Badge #4489)",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00185",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Lead Digital Forensics Examiner • DFCCU",
+      "raw": "Lead Digital Forensics Examiner • DFCCU",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00186",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Date: September 13, 2026",
+      "raw": "Date: September 13, 2026",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00187",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Dr. Aris Thorne",
+      "raw": "Dr. Aris Thorne",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00188",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Technical Laboratory Supervisor",
+      "raw": "Technical Laboratory Supervisor",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00189",
+      "type": "other",
+      "timestamp": "",
+      "summary": "Date: September 13, 2026",
+      "raw": "Date: September 13, 2026",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    },
+    {
+      "record_id": "R00190",
+      "type": "other",
+      "timestamp": "",
+      "summary": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 4 of 4",
+      "raw": "UFDR Forensic Archive • Case #CR-2026-0914-8849A Page 4 of 4",
+      "case_id": "case-20",
+      "report_id": "RPT-990870A3BD"
+    }
+  ]
+}

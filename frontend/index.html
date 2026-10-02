@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ForensicAI — Digital Investigation Platform</title>
+<link rel="stylesheet" href="/assets/styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="login" class="login-screen">
+  <div class="login-art"><div class="orb"></div><div class="brand-mark">F</div><h1>FORENSIC<span>AI</span></h1><p>AI-assisted UFDR analysis & digital forensic investigation.</p><div class="login-points"><div>◆ Evidence-first analysis</div><div>◆ Case-isolated investigations</div><div>◆ No fabricated forensic results</div></div></div>
+  <div class="login-card"><div class="mini-logo">F</div><h2>Investigator access</h2><p class="muted">Demo access for the academic project. Authentication can be connected later.</p><label>Officer / Examiner name</label><input id="loginName" placeholder="Enter your name"><label>Access code</label><input id="loginCode" type="password" placeholder="FOR-AI"><button class="primary wide" onclick="enterApp()">Enter ForensicAI <span>→</span></button><small>This local login is only a presentation gate. It does not provide real authentication.</small></div>
+</div>
+<div id="app" class="hidden">
+<header class="topbar"><div class="logo"><b>F</b><span>FORENSIC<span>AI</span></span></div><div class="search"><span>⌕</span><input id="globalSearch" placeholder="Search cases, reports, evidence..." oninput="globalSearch(this.value)"></div><div class="top-actions"><button class="iconbtn" title="Notifications">◌</button><div class="profile"><div class="avatar" id="avatar">P</div><div><strong id="userName">Investigator</strong><small>Forensic analyst</small></div></div></div></header>
+<div class="layout">
+<aside class="sidebar">
+<div class="section-label">WORKSPACE</div>
+<button class="nav active" data-page="dashboard"><span>▦</span> Overview</button>
+<button class="nav" data-page="cases"><span>▣</span> Cases</button>
+<button class="nav" data-page="evidence"><span>◈</span> Evidence Explorer</button>
+<button class="nav" data-page="timeline"><span>◷</span> Timeline</button>
+<button class="nav" data-page="indicators"><span>⚠</span> Indicators</button>
+<div class="section-label">INTELLIGENCE</div>
+<button class="nav" data-page="assistant"><span>✦</span> AI Assistant <em>AI</em></button>
+<button class="nav" data-page="reports"><span>▤</span> Investigation Reports</button>
+<button class="nav" data-page="audit"><span>≋</span> Audit Log</button>
+<div class="sidebar-bottom"><div class="integrity"><span class="dot"></span><div><strong>Evidence-first mode</strong><small>No default forensic data</small></div></div><button class="nav" onclick="logout()"><span>↪</span> Sign out</button></div>
+</aside>
+<main id="main"></main>
+</div></div>
+<div id="toast"></div>
+<script src="/assets/app.js"></script>
+</body></html>
